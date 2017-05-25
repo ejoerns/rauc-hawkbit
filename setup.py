@@ -4,7 +4,7 @@
 from setuptools import setup, find_packages
 
 setup(
-      name='rauc_hawkbit',
+      name='rauc-hawkbit',
       description='hawkBit client for RAUC',
       version='0.0',
       author='Bastian Stender and Enrico Joerns',
